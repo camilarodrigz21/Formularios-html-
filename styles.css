@@ -1,0 +1,30 @@
+body{
+    background-image: url(/imagenes/fondo.jfif);
+    background-size:cover;
+}
+
+
+form {
+    width: 60%;
+    margin: 30px auto; 
+    color:rgb(61, 57, 57) 
+}
+
+h1{
+    text-align: center;
+    color: rgb(167, 93, 233);
+}
+
+.textop {
+    text-align: justify; 
+    font-size: 20px;   
+    color: rgb(98, 88, 107)
+}
+
+.acepto{
+    display: flex; 
+    line-height: 1.15
+
+}
+
+
