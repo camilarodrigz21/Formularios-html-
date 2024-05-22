@@ -1,6 +1,7 @@
 body{
-    background-image: url(/imagenes/fondo.jfif);
+    background-image: url(/imagenes/fondoform.jfif);
     background-size:cover;
+    background-repeat: no-repeat;
 }
 
 
@@ -8,11 +9,12 @@ form {
     width: 60%;
     margin: 30px auto; 
     color:rgb(61, 57, 57) 
+    
 }
 
 h1{
     text-align: center;
-    color: rgb(167, 93, 233);
+    color: rgb(99, 20, 92);
 }
 
 .textop {
@@ -26,5 +28,7 @@ h1{
     line-height: 1.15
 
 }
+
+
 
 
